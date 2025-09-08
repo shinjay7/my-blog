@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: 신재근의 기록노트에 오신걸 환영합니다 ! 👍
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+그냥 이것 저것 기록 기록 기록... 📝
