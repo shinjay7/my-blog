@@ -95,3 +95,9 @@ const config: QuartzConfig = {
 }
 
 export default config
+
+export default defineConfig({
+  // ...
+  ignorePatterns: ["attachments/**"]
+})
+
