@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "attachments/**"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -95,9 +95,4 @@ const config: QuartzConfig = {
 }
 
 export default config
-
-export default defineConfig({
-  // ...
-  ignorePatterns: ["attachments/**"]
-})
 
